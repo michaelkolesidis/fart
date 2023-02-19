@@ -1,5 +1,3 @@
-# fart
-
-![screenshot](./fart.png)
+![screenshot](./screenshot.png)
 
 A farting butt.
