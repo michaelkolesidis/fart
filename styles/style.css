@@ -32,13 +32,14 @@ body {
   border: 3px solid black;
   box-shadow: 16px 16px black;
   width: 40vw;
+  max-width: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 img {
-  width: 14vw;
+  width: 60px;
   margin: 1em;
 }
 
